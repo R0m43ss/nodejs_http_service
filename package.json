@@ -6,8 +6,8 @@
   "main": "app.ts",
   "scripts": {
     "build": "npx tsc",
-    "start": "npx tsx app.ts",
-    "dev": "npx tsx app.ts"
+    "start": "npx tsx src/app.ts",
+    "dev": "npx tsx src/app.ts"
   },
   "keywords": [],
   "author": "",
